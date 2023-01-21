@@ -16,5 +16,29 @@
     "companyId": "wvdB54Gqbdp_NZTXK9Tue",
     "title": "Full-Stack Developer",
     "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "rKWBBYWqi5_X2YzOdS_0i",
+    "title": "Nodejs Dev",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue",
+    "description": "Test description"
+  },
+  {
+    "id": "vU9xj7QmvMgfL9jcdcUGX",
+    "title": "Golang Dev",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue",
+    "description": "Test description"
+  },
+  {
+    "id": "HQXa-hp_lp9jd8UmbrBdS",
+    "title": "Rust Dev",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue",
+    "description": "Rust dev position"
+  },
+  {
+    "id": "pJFeTm7Eq3TXamVbJHt44",
+    "title": "Blockchain Dev",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue",
+    "description": "We need a blockchain dev to build decentralized apps!"
   }
 ]
