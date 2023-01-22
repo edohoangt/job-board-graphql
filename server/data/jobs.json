@@ -82,5 +82,17 @@
     "title": "QA Tester",
     "description": "Test",
     "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "Ux9CIhMK9LCu75L9Ewl2_",
+    "title": "Scala Dev",
+    "description": "Test",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "CWbuJw2HMnGDCEtuEGKcW",
+    "title": "Product Owner",
+    "description": "Give devs something to do",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
   }
 ]
